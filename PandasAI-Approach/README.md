@@ -1,5 +1,7 @@
 **First Approach: Using PandasAI for Data Visualization**
 
+YouTube Link :- https://youtu.be/W3wdM9jNrOI
+
 PandasAI is a recently developed AI tool designed to integrate seamlessly with Pandas, enabling users to create data visualizations based on natural language prompts. This tool can be combined with either OpenAI or Ollama models to enhance its capabilities.
 
 **Why Ollama?**
