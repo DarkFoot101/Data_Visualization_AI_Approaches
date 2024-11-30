@@ -78,3 +78,6 @@ o	The current interface can be improved using advanced front-end tools like Reac
 
 By addressing these challenges, this approach can become more robust and efficient in the future.
 
+4. The model was very slow in executing and future works need to be made on improving the efficiency. However please note this can be very fast in
+some computers.
+
