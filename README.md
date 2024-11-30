@@ -81,7 +81,7 @@ ________________________________________
 
 To better understand the workflow, videos showcasing both approaches have been included in this repository are posted in youtube in the given link below.
 
-**GeminiAI Approach :- **
+Gemini Approach - https://youtu.be/d0xbOwJkRS0
 
-**PandasAI Approach:- **
+PandasAI Approach - 
 
