@@ -83,5 +83,5 @@ To better understand the workflow, videos showcasing both approaches have been i
 
 Gemini Approach - https://youtu.be/d0xbOwJkRS0
 
-PandasAI Approach - 
+PandasAI Approach - https://youtu.be/W3wdM9jNrOI
 
