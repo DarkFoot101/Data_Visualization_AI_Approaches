@@ -1,5 +1,7 @@
 **Approach: Using Gemini API for Data Visualization**
 
+YouTube Link:- https://youtu.be/d0xbOwJkRS0
+
 The Gemini API leverages highly advanced and superior models compared to other alternatives like Ollama. It provides a free API and facilitates seamless data visualization, making it an effective tool for analyzing data with ease.
 
 ________________________________________
