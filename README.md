@@ -11,8 +11,8 @@ ________________________________________
 
 Utilizes PandasAI, a library designed to integrate natural language queries with Pandas DataFrames. This approach leverages Ollama models for visualization generation.
 
-**•	Advantages:
-**
+**•	Advantages:**
+
 o	Free usage of Ollama models (no subscription required).
 
 o	Flexible and user-friendly integration with Pandas, which is a very new technology.
