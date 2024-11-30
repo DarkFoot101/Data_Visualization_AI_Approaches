@@ -63,7 +63,7 @@ ________________________________________
 
 o	Train a proprietary LLM tailored specifically for analyzing and visualizing data from CSV files.
 
-2.**	OpenAI API Integration:**
+**2.	OpenAI API Integration:**
 
 o	For users without cost concerns, integrating OpenAI's GPT models can provide unparalleled natural language understanding and visualization capabilities. Although its capabilities are yet to be experimented.
 
@@ -76,8 +76,12 @@ o	Develop faster and more efficient algorithms to process prompts and render vis
 o	Explore frontend frameworks like React or Angular to create a more polished user interface.
 
 ________________________________________
-Video Demonstrations
+
+**Video Demonstrations**
+
 To better understand the workflow, videos showcasing both approaches have been included in this repository are posted in youtube in the given link below.
-GeminiAI Approach :- 
-PandasAI Approach:- 
+
+**GeminiAI Approach :- **
+
+**PandasAI Approach:- **
 
