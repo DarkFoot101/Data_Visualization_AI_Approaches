@@ -5,6 +5,31 @@ Below are the approaches used, along with their respective advantages and disadv
 
 ________________________________________
 
+**2. Gemini API**
+
+**•	Overview:**
+
+Employs the Gemini API, which utilizes highly advanced and well-trained models to facilitate data visualization.
+
+**•	Advantages:**
+
+o	Free API with access to cutting-edge AI models.
+
+o	Easier implementation for creating visualizations.
+
+o	More robust language processing compared to Ollama.
+
+
+**•	Disadvantages:**
+
+o	Requires explicit specification of the visualization type in code.
+
+o	Lacks the dynamic adaptability seen in PandasAI for inferring visualization needs, along with API integration problems.
+
+o	Performance could be further improved with additional training or optimizations.
+
+________________________________________
+
 **1. PandasAI with Ollama Models**
 
 **•	Overview:**
@@ -29,31 +54,6 @@ o	Ollama models are less fine-tuned compared to other state-of-the-art LLMs.
 o	Some Streamlit integration issues on certain systems.
 
 o	UI could be enhanced with additional tools like React.
-
-________________________________________
-
-**2. Gemini API**
-
-**•	Overview:**
-
-Employs the Gemini API, which utilizes highly advanced and well-trained models to facilitate data visualization.
-
-**•	Advantages:**
-
-o	Free API with access to cutting-edge AI models.
-
-o	Easier implementation for creating visualizations.
-
-o	More robust language processing compared to Ollama.
-
-
-**•	Disadvantages:**
-
-o	Requires explicit specification of the visualization type in code.
-
-o	Lacks the dynamic adaptability seen in PandasAI for inferring visualization needs, along with API integration problems.
-
-o	Performance could be further improved with additional training or optimizations.
 
 ________________________________________
 
