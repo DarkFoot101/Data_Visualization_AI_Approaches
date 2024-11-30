@@ -9,13 +9,19 @@ Utilizes PandasAI, a library designed to integrate natural language queries with
 
 •	Advantages:
 o	Free usage of Ollama models (no subscription required).
+
 o	Flexible and user-friendly integration with Pandas, which is a very new technology.
+
 o	Offers advanced natural language capabilities for understanding prompts.
+
 
 •	Disadvantages:
 o	Requires very precise prompts to generate accurate visualizations, as this new technology is still being researched.
+
 o	Ollama models are less fine-tuned compared to other state-of-the-art LLMs.
+
 o	Some Streamlit integration issues on certain systems.
+
 o	UI could be enhanced with additional tools like React.
 
 ________________________________________
